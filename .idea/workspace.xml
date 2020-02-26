@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c8d3855-6cfc-4867-bf1b-a052c65aceb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/GuestCheckout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/LoadProp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resourses/BrowserDriver/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resourses/BrowserDriver/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resourses/TestData/.idea/ExcelSheet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/BrowserSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/JewelryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/JewelryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resourses/ExcelSheet/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resourses/TestData/Book1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/BrowserSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/JewelryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/JewelryPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/TestSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/TestSuit.class" afterDir="false" />
-    </list>
+    <list default="true" id="1c8d3855-6cfc-4867-bf1b-a052c65aceb8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
