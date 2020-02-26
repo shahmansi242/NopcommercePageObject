@@ -18,14 +18,14 @@ public class BaseTest extends Utils {
 
 
     }
-  //  @AfterTest
+ //   @AfterTest
   //  public void closeBrowser(){
-     //   browserSelector.closeBrowser();
+   //     browserSelector.closeBrowser();
 
 
-   // }
+   }
 
-}
+//}
 
 
 

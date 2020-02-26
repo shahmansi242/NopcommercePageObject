@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c8d3855-6cfc-4867-bf1b-a052c65aceb8" name="Default Changelist" comment="" />
+    <list default="true" id="1c8d3855-6cfc-4867-bf1b-a052c65aceb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/GuestCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/LoadProp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resourses/BrowserDriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resourses/BrowserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resourses/TestData/.idea/ExcelSheet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/JewelryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/JewelryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resourses/ExcelSheet/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resourses/TestData/Book1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/BrowserSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/JewelryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/JewelryPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/TestSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/TestSuit.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +45,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XqdbnNbQTGK5rybo12A1CyHWdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,18 +53,37 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resourses/ExcelSheet" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resourses/BrowserDriver" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test\Resourses\ExcelSheet" />
-      <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test\Resourses\BrowserDriver" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test\Resourses\BrowserDriver" />
+      <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test\Resourses\ExcelSheet" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToaFriend">
+  <component name="RunManager" selected="TestNG.TestSuit.guestUserShouldBeAbleToAddNewComment">
+    <configuration name="TestSuit.guestUserShouldBeAbleToAddNewComment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopcommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToAddNewComment" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToaFriend" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopcommercePageObject" />
       <extension name="coverage">
@@ -59,7 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.registerUserReferFriendSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.userShouldBeAbleToChangeTheCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopcommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -69,7 +112,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="registerUserReferFriendSuccessfully" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToChangeTheCurrency" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -77,7 +120,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.registerUserShouldAbleToReferAFriendSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.verifyAddToCartButtonIsPresentOnAllFeaturedProduct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopcommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -87,7 +130,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="registerUserShouldAbleToReferAFriendSuccessfully" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonIsPresentOnAllFeaturedProduct" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -95,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.userShouldAbleToCompareTwoDifferentProductSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.verifyGuestUserShouldBeAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopcommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -105,25 +148,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="userShouldAbleToCompareTwoDifferentProductSuccessfully" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSuit.userShouldBeAbleToSortProductHighToLowByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NopcommercePageObject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="userShouldBeAbleToSortProductHighToLowByPrice" />
+      <option name="METHOD_NAME" value="verifyGuestUserShouldBeAbleToCheckOutSuccessfully" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToAddNewComment" />
+        <item itemvalue="TestNG.TestSuit.verifyGuestUserShouldBeAbleToCheckOutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToChangeTheCurrency" />
+        <item itemvalue="TestNG.TestSuit.verifyAddToCartButtonIsPresentOnAllFeaturedProduct" />
         <item itemvalue="TestNG.TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToaFriend" />
-        <item itemvalue="TestNG.TestSuit.registerUserShouldAbleToReferAFriendSuccessfully" />
-        <item itemvalue="TestNG.TestSuit.userShouldAbleToCompareTwoDifferentProductSuccessfully" />
-        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToSortProductHighToLowByPrice" />
-        <item itemvalue="TestNG.TestSuit.registerUserReferFriendSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -167,10 +192,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582123740662">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582563967670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1582123740662" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1582563967670" />
     <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582127966742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -179,34 +204,44 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="303" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1581778670672" />
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582124001904">
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582546905544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582124001904" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582132240941">
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582546905544" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582295046283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582132240941" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582132240941">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582295046283" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582757579998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582132240941" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582132240941">
+    <state width="1310" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582757579998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582132240941" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582132240941">
+    <state width="1310" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582757579998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582132240941" />
+    <state width="1310" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582757579998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
     <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1581978896434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978896434" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582136118600">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582753428827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582136118600" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1582243232282" />
+    <state x="1721" y="175" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243512910" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582753428827" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581993392837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
