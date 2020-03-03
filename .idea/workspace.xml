@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c8d3855-6cfc-4867-bf1b-a052c65aceb8" name="Default Changelist" comment="" />
+    <list default="true" id="1c8d3855-6cfc-4867-bf1b-a052c65aceb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/Catagories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/Catagories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/ChangeCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/ChangeCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/CheckOutResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/CheckOutResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/Computers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/Computers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/EmailFriendPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/EmailFriendPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/NewsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/NewsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/ProductComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/ProductComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/RegistrationResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WebTest1/RegistrationResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resourses/TestData/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resourses/TestData/Book1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resourses/TestData/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resourses/TestData/testconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/Catagories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/Catagories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/CheckOutResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/CheckOutResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/EmailFriendPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/EmailFriendPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/NewsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/NewsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/RegistrationResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebTest1/RegistrationResultPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/TestSuit.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -34,37 +60,44 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resourses/BrowserDriver" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/NopcommercePageObject-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test\Resourses\BrowserDriver" />
       <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test\Resourses\ExcelSheet" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MAHARAJ\IdeaProjects\NopcommercePageObject\src\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuit.guestUserShouldBeAbleToAddNewComment">
-    <configuration name="TestSuit.guestUserShouldBeAbleToAddNewComment" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RunTest">
+    <configuration name="Feature: compair" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Resourses/features/compair.feature" />
+      <option name="GLUE" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="NopcommercePageObject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: compair" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="guestUserShouldBeAbleToAddNewComment" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToaFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="NopcommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -73,11 +106,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
-      <option name="METHOD_NAME" value="nonRegisterUserShouldNotBeAbleToReferAProductToaFriend" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="MAIN_CLASS_NAME" value="org.example.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToAddNewComment" />
+        <item itemvalue="JUnit.RunTest" />
+        <item itemvalue="Cucumber java.Feature: compair" />
         <item itemvalue="TestNG.TestSuit.verifyGuestUserShouldBeAbleToCheckOutSuccessfully" />
-        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToChangeTheCurrency" />
         <item itemvalue="TestNG.TestSuit.verifyAddToCartButtonIsPresentOnAllFeaturedProduct" />
-        <item itemvalue="TestNG.TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToaFriend" />
+        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToChangeTheCurrency" />
       </list>
     </recent_temporary>
   </component>
@@ -176,52 +206,84 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1582563967670" />
-    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582127966742">
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583178680206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582127966742" />
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583178680206" />
     <state x="303" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581778670672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="303" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1581778670672" />
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582546905544">
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583157546630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582546905544" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582295046283">
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583157546630" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583077147540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582295046283" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582757579998">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583077147540" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1583142092401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583142092401" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583263974022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1310" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582757579998">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583263974022" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583263974021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1310" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582757579998">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583263974021" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583263974021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1310" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582757579998">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583263974021" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583263974022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1310" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243452731" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582757579998" />
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1581978896434">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583263974022" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1583181374639">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978896434" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582753428827">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583181374639" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1583181374639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583181374639" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1583181374639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583181374639" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1583181374639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583181374639" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1583068513461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583068513461" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1582992683569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582992683569" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583141380774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1582243232282" />
     <state x="1721" y="175" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@1366.0.1280.680" timestamp="1582243512910" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582753428827" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583141380774" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583180934033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1583180934033" />
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583068006477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583068006477" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581993392837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

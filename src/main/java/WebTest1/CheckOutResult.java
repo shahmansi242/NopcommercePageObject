@@ -11,7 +11,7 @@ public class CheckOutResult extends Utils {
     public void verifycheckoutsuccessmessage()
     {
 
-        String expected = "Your order has not been successfully processed!";
+        String expected = "Your order has been successfully processed!";
         assertTextMessage("checkout is not successful",expected,_checkoutsuccessmessage);
     }
 

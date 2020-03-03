@@ -7,17 +7,18 @@ import org.testng.asserts.SoftAssert;
 import java.util.List;
 
 public class ChangeCurrency extends Utils {
+    LoadProp loadProp = new LoadProp();
     private By _currency = By.id("customerCurrency");
     private String currency = "Euro";
 
     //user click currency from dropdown
-    public void userselectcurrency()
+    public void selectCurrencyFromDropDown()
     {
-        selectFromDropdownByVisibleText(_currency, currency);
+        selectFromDropdownByVisibleText(_currency,loadProp.getProperty("changeToCurrency"));
     }
 
     //verify all Web element got chosen euro currency
-    public void verifyCurrency() {
+    public void verifyCurrencySymbolPresent() {
         SoftAssert softAssert = new SoftAssert();
         List<WebElement> productList = driver.findElements(By.xpath("//span[@class='price actual-price']"));
         for (WebElement we : productList)

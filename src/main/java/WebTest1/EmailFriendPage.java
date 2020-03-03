@@ -20,6 +20,11 @@ public class EmailFriendPage extends Utils {
     }
     public  void emailAFriendDetails(){
         enterText(_friendEmail,friendEmail);
+        try {
+            Thread.sleep(3000);
+        }catch (InterruptedException e){
+            e.printStackTrace();
+        }
         enterText(_yourEmail,yourEmail);
         enterText(_textBox,message);
         clickOnElement(_sendEmail);

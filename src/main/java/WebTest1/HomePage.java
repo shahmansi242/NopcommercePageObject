@@ -7,6 +7,8 @@ import org.testng.asserts.SoftAssert;
 
 import java.util.List;
 
+import static java.lang.Thread.sleep;
+
 public class HomePage extends Utils {
     private By _registerLInk = By.linkText("Register");
     private By _jewelryLink = By.xpath("//ul[contains(@class,'notmobile')]//li//a[contains(text(),'Jewelry')]");
@@ -16,8 +18,12 @@ public class HomePage extends Utils {
 
 
     // verify that user click on register button
-    public void clickOnRegisterButton() {
+    public void clickonregisterbutton() throws InterruptedException {
+        sleep(3000);
         clickOnElement(_registerLInk);
+    }
+    public void verifyUserIsOnHomePage(){
+        assertURL("demo.nopcommerce");
     }
 
     //verify that user click on jewellery category
@@ -33,9 +39,10 @@ public class HomePage extends Utils {
     public void clickOnViewNewsArchive()
     {
         clickOnElement(_viewNewsArchive);
+        }
     }
 
 
 
 
-}
+

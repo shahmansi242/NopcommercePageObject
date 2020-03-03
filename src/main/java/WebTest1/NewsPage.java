@@ -29,7 +29,7 @@ public class NewsPage extends Utils {
     }
 
     public void verifysuccessmessageofcomment(){
-        String expected = "new comment is successfully added.";
+        String expected = "News comment is successfully added.";
         assertTextMessage("News comment is successfully added.",expected,_successmessage);
     }
 

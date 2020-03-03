@@ -17,7 +17,8 @@ public class Catagories extends Utils {
 
     //Verify user on computer catagories page
     public void verifyUserOnComputerCatagoriesPage(){
-        assertURL("computers");
+       // clickOnElement();
+       // assertURL("computers");
     }
     //verify user click on notebook category
     public void userClickOnNoteBook(){
@@ -31,6 +32,11 @@ public class Catagories extends Utils {
     //verify user click on apple mac products
     public void userClickOnAppleMac()
     {
+        try {
+            Thread.sleep(2000);
+        }catch (InterruptedException e){
+            e.printStackTrace();
+        }
         clickOnElement(_appleMac);
     }
     //Refer to friend
@@ -39,6 +45,8 @@ public class Catagories extends Utils {
         clickOnElement(_email);
         //Enter details to refer a friend
         enterText(_friendEmail,"amit11@yahoo.co.uk");
+        //click email refer
+      //  enterText(_yourEmail,"mshah6135+"+timeStamp()+ "@gmail.com");
         //Enter text box
         enterText(_writeInTextBox,"I Like This Product,So you can Try it");
         //click send email button
